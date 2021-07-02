@@ -1,0 +1,34 @@
+ ./circularqueue.exe
+ 
+ * queue is empty
+The front element is
+Inserting a
+Inserting b
+Inserting c
+Inserting d
+Inserting e
+ * Insert blocked (queue full)
+The front element is a
+The rear element is e
+Removing a
+The front element is b
+Inserting p
+The queue size is 5
+Removing b
+Removing c
+Removing d
+The front element is e
+The rear element is p
+Removing e
+Removing p
+Inserting x
+Inserting y
+The front element is x
+Removing x
+The front element is y
+Removing y
+ * Removal blocked (queue empty)
+ * queue is empty
+ * queue is empty
+ 
+ 
